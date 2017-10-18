@@ -10,8 +10,9 @@ Muestre la bandera con los dos colores amarillo y negro con su texto respectivo 
 Poner en practica los temas revisados en clase de laboratoria_(html,css, boxModel y Display)
 
 #### Herramientas
-+Editor Atom
-**    +html
-**    +css
 
-![Texto alternativo](parte 1.pgn "Título alternativo")
++ Editor Atom
+    + html
+    + css
+
+![Texto alternativo](https://fotos.subefotos.com/8157f58d3d2dcfcf689ec56554097266o.png)
