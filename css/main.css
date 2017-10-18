@@ -1,0 +1,20 @@
+/*tiene las propiedades width y height incluyen el padding y el border, pero no el margin.*/
+/*usando selector universal */
+*{
+  box-sizing: border-box;
+}
+/*usando selector etiqueta*/
+div{
+  height: 100px;
+  margin-bottom: 5px;
+  padding: 8px;
+}
+/*utilizando el selector de clase yellow con la propiedad background-color y su valor rgb*/
+.yellow{
+  background-color: rgb(240,175,20);
+}
+/*utilizando el selector de clase black que asigne un color de fondo black*/
+.black{
+  background-color: #373535;
+  color: white;
+}
